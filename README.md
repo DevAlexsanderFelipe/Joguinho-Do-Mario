@@ -4,6 +4,6 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
-<img src="https://github.com/DevAlexsanderFelipe/Joguinho-Do-Mario/blob/master/images/game%20Mario.PNG?raw=true">
+<img src="https://github.com/DevAlexsanderFelipe/Joguinho-Do-Mario/blob/master/assets/game%20Mario.PNG?raw=true">
 
 
