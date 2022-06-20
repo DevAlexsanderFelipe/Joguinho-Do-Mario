@@ -4,7 +4,7 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
-<a href="https://joguinho-do-mario.netlify.app" target="_blank">https://joguinho-do-mario.netlify.app</a>
+<a href="https://joguinho-do-mario.netlify.app" target="_blank" >Joguinho Do Mario</a>
 
 <img src="https://github.com/DevAlexsanderFelipe/Joguinho-Do-Mario/blob/master/assets/game%20Mario.PNG?raw=true">
 
