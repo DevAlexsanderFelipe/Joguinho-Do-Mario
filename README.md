@@ -4,6 +4,9 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JavaScript</li>
+<h2>link da aplicação</h2>
+ <a>https://joguinho-do-mario.netlify.app/</a>
+ 
 <img src="https://github.com/DevAlexsanderFelipe/Joguinho-Do-Mario/blob/master/assets/game%20Mario.PNG?raw=true">
 
 
